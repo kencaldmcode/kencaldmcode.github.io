@@ -89,10 +89,10 @@ h6 {
   .linktree {
     width: 120px;
     height: 120px;
-    background-image: url("Kevin-Calderon-Profile-ProfessionalProfessional.jpg"); /* Pon aquí el nombre exacto de tu archivo de imagen con su extensión (.png, .jpg) */
+    background-image: url("Kevin-Calderon-Profile-ProfessionalProfessional.jpg"); 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    border-radius: 50%; /* Opcional: Esto la hace redonda si es una foto de perfil */
-    margin: 0 auto; /* ¡ESTO CORRIGE EL LUGAR! */
+    border-radius: 50%; 
+    margin: 0 auto; 
 }
